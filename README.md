@@ -1,4 +1,4 @@
-CRUD básico com o framework CodeIgniter
+CRUD com o framework CodeIgniter
 
 💻 About<br>
 CRUD criado com o framework CodeIgniter para agilizar o processo de criação de sistemas caso necessário;
